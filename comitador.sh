@@ -15,10 +15,10 @@
 echo "Insira o link do seu repositório"
 read repo
 
-# clean directory
+
 rm -rf dir
 
-# initialize git
+
 mkdir dir && cd dir
 git init
 
