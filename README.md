@@ -7,5 +7,5 @@ Script Shell para gerar commits falsos
 1. Crie um novo repositório github ou use um repositório existente ao qual você tenha acesso.
 2. Execute ```./comitador.sh``` ou ```sh comitador.sh```
 
-# Exemplos
+# Exemplo
 <img src="https://media.discordapp.net/attachments/744643108351770726/804801356865994762/unknown.png">
