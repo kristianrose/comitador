@@ -1,4 +1,4 @@
-# Comminator
+# Comitador / Kristian Rose (S0n1x)
 Script Shell para gerar commits falsos
 
 ### Uso
